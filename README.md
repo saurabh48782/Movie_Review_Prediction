@@ -6,4 +6,4 @@ Using the concept of Natural Language Processing and Naive Bayes Classifier to m
  - Stemming/Lemmitization: Converting words into their base form to reduce redundancy.
  - Vocab/Feature Vector creation
 #### Used Naive Bayes classifier to learn from the Vocab/Feature vector and classify the reviews as positive or negative.
- - used Multinomial and Multivariate Bernoulli Naive Bayes classification algorithms.
+ - used Multinomial Naive Bayes and Multivariate Bernoulli Naive Bayes classification algorithms.
